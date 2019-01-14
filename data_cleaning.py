@@ -70,9 +70,3 @@ cars_dataset[["Normalized-losses"]] = cars_dataset[["Normalized-losses"]].astype
 #After cleaning the data we could save it in a csv file in the same directory
 #so we don't have to deal with cleaning each time we want to work with it
 cars_dataset.to_csv('cars_dataset.csv')
-
-
-# In[ ]:
-
-
-
