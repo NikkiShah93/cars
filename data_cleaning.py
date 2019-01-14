@@ -1,7 +1,4 @@
 
-# coding: utf-8
-
-# In[1]:
 
 #We need to import the dataset first
 #It's an online dataset from 1980s storing features of cars and their prices
