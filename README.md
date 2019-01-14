@@ -2,7 +2,7 @@
 
 The goal here is to come up with a model using this data set that could predict the price of a car based on its features.
 
-This data set is made of 205 observations of 26 variables.
+This data set is made of 199 observations of 26 variables.
 There are features such as engine size, number of doors, fuel type, horsepower and so on.
 
 The steps are going to be:
