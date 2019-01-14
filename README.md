@@ -6,7 +6,7 @@ This data set is made of 199 observations of 26 variables.
 There are features such as engine size, number of doors, fuel type, horsepower and so on.
 
 The steps are going to be:
-1. cleaning the data (correcting the data type for some columns and deals with missing data)
+1. cleaning the data (correcting the data type for some columns and dealing with missing data)
 2. exploring the data (finding the correlation between differnet features and our target)
 3. developing a model (finding the best model that could predict the target)
 4. evaluate the model (check if the model is reliable)
