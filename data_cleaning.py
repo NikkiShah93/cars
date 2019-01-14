@@ -9,15 +9,11 @@
 #The main goal is to find a regression model that could predict the price of cars having some features
 
 #The libraries that we use here are, Numpy, Scipy, Scikit-learn, Pandas, Seaborn and Matplotlib
+#For this file only Pandas and Numpy are useful
 
 import numpy as np
 import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
-from scipy import stats
-get_ipython().magic('matplotlib inline')
 
-#The sklearn library will be imported in the following when it is needed
 
 #Importing the dataset
 
