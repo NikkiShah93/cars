@@ -57,7 +57,7 @@ grouped_data = cars_data[["Drive-wheel", "body-style", "Price"]].groupby(["Drive
 piviot_table = grouped_data.pivot(index = "body-style", columns="Drive-wheel")
 
 #Loking at this piviot table shows that rwd cars are more expensive than the other two types in every body style
-#We could use a heat map to visualize it better, but there are nan values in our pivit that has to be filled
+#We could use a heat map to visualize it better, but there are nan values in our piviot that has to be filled before graphing it
 
 piviot_table = piviot_table.fillna(0)
 
